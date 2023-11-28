@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @oxs-sg
+- 👀 I’m interested in  HTML, CSS, Java, and JavaScript...
+- 🌱 I’m currently learning I'm currently learning how to do responsive web design and trying to learn the fundamentals of Java.
